@@ -11,7 +11,7 @@
   "dependencies": {
     "@auth/mongodb-adapter": "^3.2.0",
     "@builder.io/react-hydration-overlay": "^0.0.8",
-    "@consumet/extensions": "https://github.com/consumet/consumet.ts",
+    "@consumet/extensions": "github:consumet/consumet.ts#master",
     "@ducanh2912/next-pwa": "^10.2.7",
     "@nextui-org/react": "^2.3.6",
     "@radix-ui/react-dialog": "^1.0.5",
